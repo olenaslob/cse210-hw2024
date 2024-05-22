@@ -1,0 +1,4 @@
+10
+10
+1
+SimpleGoal:eat,eat healthy food,10,True
